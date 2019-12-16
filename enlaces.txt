@@ -1,9 +1,0 @@
-Git
-
-https://git-scm.com/book/es/v2
-
-https://www.youtube.com/playlist?list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R
-
-https://help.github.com/en
-
-https://dev.to/bdbch/setting-up-ssh-and-git-on-windows-10-2khk
